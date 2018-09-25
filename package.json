@@ -13,13 +13,14 @@
   "keywords": [
     "javascript",
     "node.js",
-    "karma",
+    "mocha",
     "chai"
   ],
   "author": "Tadej Krevh",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.1.2",
+    "codecov": "^3.1.0",
     "mocha": "^5.2.0"
   }
 }
