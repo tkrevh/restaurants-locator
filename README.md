@@ -1,5 +1,5 @@
 # Restaurants Locator
-[![codecov](https://codecov.io/gh/tkrevh/restaurants-locator/branch/master/graph/badge.svg)](https://codecov.io/gh/tkrevh/restaurants-locator)
+[![Build Status](https://travis-ci.org/tkrevh/restaurants-locator.svg?branch=master)](https://travis-ci.org/tkrevh/restaurants-locator)  [![codecov](https://codecov.io/gh/tkrevh/restaurants-locator/branch/master/graph/badge.svg)](https://codecov.io/gh/tkrevh/restaurants-locator)
 
 Small project to showcase the use of Node, ES6, and tests using Mocha and Chai. 
 Code can be further extended by adding Express server and serve the data over REST API by editing the index.js which is empty at the moment.
