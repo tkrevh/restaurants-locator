@@ -7,10 +7,6 @@ class Restaurant {
         this.openTo = openTo
         this.avgRating = avgRating
     }
-
-    toString() {
-        return `${this.name} open from ${this.openFrom} to ${this.openTo} (${this.avgRating}*)`
-    }
 }
 
 module.exports = Restaurant

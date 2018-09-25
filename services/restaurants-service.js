@@ -14,8 +14,8 @@ class RestaurantsService {
                 restaurant['longitude'],
                 restaurant['open_from'],
                 restaurant['open_to'],
-                restaurant['avg_rating'],
-            ))
+                restaurant['avg_rating'])
+            )
         })
 
         return result
