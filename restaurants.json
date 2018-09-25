@@ -1,0 +1,84 @@
+{
+  "restaurants": [
+    {
+      "name": "Eataly Downtown",
+      "latitude": 40.709716,
+      "longitude": -74.011714,
+      "open_from": 8,
+      "open_to": 22,
+      "avg_rating": 3.5
+    },
+    {
+      "name": "Hole in the wall",
+      "latitude": 40.7084008,
+      "longitude": -74.0056138,
+      "open_from": 17,
+      "open_to": 24,
+      "avg_rating": 4
+    },
+    {
+      "name": "Felice",
+      "latitude": 40.7078815,
+      "longitude": -74.0071288,
+      "open_from": 8,
+      "open_to": 16,
+      "avg_rating": 4
+    },
+    {
+      "name": "Tartinery Hudson Eats",
+      "latitude": 40.712338,
+      "longitude": -74.01588,
+      "open_from": 8,
+      "open_to": 24,
+      "avg_rating": 4
+    },
+    {
+      "name": "La Parisienne",
+      "latitude": 40.7096229,
+      "longitude": -74.0093323,
+      "open_from": 19,
+      "open_to": 24,
+      "avg_rating": 4.5
+    },
+    {
+      "name": "Bluestone Lane",
+      "latitude": 40.7063436944471,
+      "longitude": -74.0118295429916,
+      "open_from": 6,
+      "open_to": 14,
+      "avg_rating": 4
+    },
+    {
+      "name": "Sophie’s Cuban Cuisine",
+      "latitude": 40.705587,
+      "longitude": -74.0125389,
+      "open_from": 10,
+      "open_to": 19,
+      "avg_rating": 3.5
+    },
+    {
+      "name": "Cafe 11",
+      "latitude": 40.7052529,
+      "longitude": -74.0140703,
+      "open_from": 12,
+      "open_to": 22,
+      "avg_rating": 4.5
+    },
+    {
+      "name": "Cipriani Wall Street",
+      "latitude": 40.7060794,
+      "longitude": -74.0093213,
+      "open_from": 11,
+      "open_to": 21,
+      "avg_rating": 3.5
+    },
+    {
+      "name": "E Pasta",
+      "latitude": 40.7091618,
+      "longitude": -74.0091709,
+      "open_from": 8,
+      "open_to": 23,
+      "avg_rating": 4
+    }
+ ]
+}
